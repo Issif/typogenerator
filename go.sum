@@ -1,8 +1,5 @@
-github.com/hduplooy/gocsv v0.0.0-20170503064518-de0e17983901 h1:O3GInEukoIiNgvC5VKQsZ4PorDnOZk9gn8rwzrbKVnU=
 github.com/hduplooy/gocsv v0.0.0-20170503064518-de0e17983901/go.mod h1:pknUOdkJEYlEdptSjHKjAtp2OlYTagiCPqrdzIIL3lY=
-github.com/mvdan/xurls v1.1.0 h1:OpuDelGQ1R1ueQ6sSryzi6P+1RtBpfQHM8fJwlE45ww=
 github.com/mvdan/xurls v1.1.0/go.mod h1:tQlNn3BED8bE/15hnSL2HLkDeLWpNPAwtw7wkEq44oU=
-github.com/namsral/flag v1.7.4-pre h1:b2ScHhoCUkbsq0d2C15Mv+VU8bl8hAXV8arnWiOHNZs=
 github.com/namsral/flag v1.7.4-pre/go.mod h1:OXldTctbM6SWH1K899kPZcf65KxJiD7MsceFUpB5yDo=
 github.com/weppos/publicsuffix-go v0.13.0 h1:0Tu1uzLBd1jPn4k6OnMmOPZH/l/9bj9kUOMMkoRs6Gg=
 github.com/weppos/publicsuffix-go v0.13.0/go.mod h1:z3LCPQ38eedDQSwmsSRW4Y7t2L8Ln16JPQ02lHAdn5k=
