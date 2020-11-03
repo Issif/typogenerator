@@ -20,8 +20,8 @@ package strategy
 import (
 	"fmt"
 
-	"zntr.io/typogenerator/helpers"
-	"zntr.io/typogenerator/mapping"
+	"github.com/Issif/typogenerator/helpers"
+	"github.com/Issif/typogenerator/mapping"
 )
 
 type similarStrategy struct {

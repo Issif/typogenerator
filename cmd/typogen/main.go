@@ -24,9 +24,9 @@ import (
 
 	"golang.org/x/net/idna"
 
-	"zntr.io/typogenerator"
-	"zntr.io/typogenerator/mapping"
-	"zntr.io/typogenerator/strategy"
+	"github.com/Issif/typogenerator"
+	"github.com/Issif/typogenerator/mapping"
+	"github.com/Issif/typogenerator/strategy"
 
 	"github.com/hduplooy/gocsv"
 	"github.com/namsral/flag"

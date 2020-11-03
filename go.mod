@@ -1,4 +1,4 @@
-module zntr.io/typogenerator
+module github.com/Issif/typogenerator
 
 go 1.14
 

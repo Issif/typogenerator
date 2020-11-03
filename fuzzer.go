@@ -18,7 +18,7 @@
 package typogenerator
 
 import (
-	"zntr.io/typogenerator/strategy"
+	"github.com/Issif/typogenerator/strategy"
 
 	"github.com/weppos/publicsuffix-go/publicsuffix"
 )

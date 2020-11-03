@@ -20,8 +20,8 @@ package strategy_test
 import (
 	"testing"
 
-	"zntr.io/typogenerator/mapping"
-	"zntr.io/typogenerator/strategy"
+	"github.com/Issif/typogenerator/mapping"
+	"github.com/Issif/typogenerator/strategy"
 )
 
 func TestDoubleHit(t *testing.T) {
